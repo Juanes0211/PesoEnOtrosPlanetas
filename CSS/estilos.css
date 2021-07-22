@@ -1,0 +1,16 @@
+body{
+    padding: 10px;
+    margin: 40px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://www.wallpaperflare.com/static/669/96/924/planet-space-solar-system-space-art-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: antiquewhite;
+}
+
+nav{
+    background-color: rgb(218, 168, 75);
+    padding: 0px;
+    color: rgb(255, 255, 255);
+}
